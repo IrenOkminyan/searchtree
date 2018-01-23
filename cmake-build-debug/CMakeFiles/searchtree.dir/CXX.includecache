@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dell/Desktop/Prep/searchtree/main.cpp
+searchtree.cpp
+C:/Users/Dell/Desktop/Prep/searchtree/searchtree.cpp
+
+C:/Users/Dell/Desktop/Prep/searchtree/searchtree.cpp
+searchtree.h
+C:/Users/Dell/Desktop/Prep/searchtree/searchtree.h
+
+C:/Users/Dell/Desktop/Prep/searchtree/searchtree.h
+iostream
+-
+string
+-
+
